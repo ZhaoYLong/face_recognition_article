@@ -1,2 +1,2 @@
-# face_recognition_article
-python face_recognition notes
+# Note of install face_recognition
+author Zhao YLong
